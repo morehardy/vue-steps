@@ -57,10 +57,12 @@
 
 export default {
   props: {
+    // 步骤总数
     items: {
       type: Array,
       required: true
     },
+    // 当前步骤
     activeIndex: {
       type: Number,
       default: 0,
