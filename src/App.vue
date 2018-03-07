@@ -19,24 +19,16 @@ export default {
     return {
       items: [
         {
-          num: 1,
+          num: '一',
           text: '测试阶段1'
         },
         {
-          num: 2,
+          num: '二',
           text: '测试阶段2'
         },
         {
-          num: 3,
+          num: '三',
           text: '测试阶段3'
-        },
-        {
-          num: 4,
-          text: '测试阶段4'
-        },
-        {
-          num: 5,
-          text: '测试阶段5'
         }
       ],
       index: 0
@@ -44,7 +36,7 @@ export default {
   },
   methods: {
     next () {
-      if (this.index < 4) {
+      if (this.index < 2) {
         this.index += 1
       } else {
         this.index = 0
