@@ -29,6 +29,14 @@ export default {
         {
           num: 3,
           text: '测试阶段3'
+        },
+        {
+          num: 4,
+          text: '测试阶段4'
+        },
+        {
+          num: 5,
+          text: '测试阶段5'
         }
       ],
       index: 0
@@ -36,7 +44,7 @@ export default {
   },
   methods: {
     next () {
-      if (this.index < 2) {
+      if (this.index < 4) {
         this.index += 1
       } else {
         this.index = 0
