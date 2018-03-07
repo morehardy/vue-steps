@@ -13,6 +13,7 @@
   .steps {
     width: 100%;
     display: flex;
+    height: 80px;
     &-item {
       width: 100%;
       height: 34px;
@@ -44,10 +45,10 @@
       }
       // 当前状态
       .active {
-        background: $blue-color;
+        background: #0EAEE9;
       }
       .activeText {
-        color: $blue-color;
+        color: #0EAEE9;
       }
     }
   }
