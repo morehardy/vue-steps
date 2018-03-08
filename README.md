@@ -1,6 +1,7 @@
-# vue-steps
+## vue-steps
 
+### 技术栈
 - Vue
 - Scss
 
-> A vue plug-in of steps
+> 
