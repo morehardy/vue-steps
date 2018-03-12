@@ -2,8 +2,7 @@
 [![](https://img.shields.io/badge/npm-v5.5.1-519dd9.svg)](https://github.com/morehardy/vue-steps)
 [![](https://img.shields.io/badge/版本-v1.0-519dd9.svg)](https://github.com/morehardy/vue-steps)
 [![](https://img.shields.io/badge/Vue->2.0-519dd9.svg)](https://github.com/morehardy/vue-steps)
-[![npm](https://img.shields.io/npm/l/vue-qs-form.svg)](http://opensource.org/licenses/MIT)
-
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-Eslint-brightgreen.svg)](https://eslint.org/)
 ### 技术栈
 - Vue
 - Scss
