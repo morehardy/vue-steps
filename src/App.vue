@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
     <Steps :items="items" :activeIndex='index'/>
     <br>
     <button @click="next">下一步</button>
