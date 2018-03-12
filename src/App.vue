@@ -9,7 +9,6 @@
 
 <script>
 import Steps from './Steps'
-
 export default {
   name: 'App',
   components: {

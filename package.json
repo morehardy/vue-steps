@@ -4,7 +4,7 @@
   "description": "A vue plug-in of steps",
   "author": "morehardy <morehardy@163.com>",
   "private": false,
-  "main": "dist/Steps.main.js",
+  "main": "dist/vue-steps.min.js",
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
