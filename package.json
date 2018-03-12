@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "A vue plug-in of steps",
   "author": "morehardy <morehardy@163.com>",
-  "private": true,
+  "private": false,
+  "main": "dist/Steps.main.js",
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
@@ -87,5 +88,19 @@
     "> 1%",
     "last 2 versions",
     "not ie <= 8"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morehardy/vue-steps.git"
+  },
+  "files": [
+    "dist",
+    "src"
+  ],
+  "keywords": [
+    "vue",
+    "steps"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/morehardy/vue-steps"
 }
