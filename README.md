@@ -1,4 +1,5 @@
 ## vue-steps
+[![npm](https://img.shields.io/npm/v/vue-steps.svg)](https://github.com/morehardy/vue-steps)
 
 ### 技术栈
 - Vue
