@@ -15,8 +15,8 @@ npm i a-vue-steps --save
 
 #### 使用:
 ```
-import VueSteps from 'vue-steps'
-import 'vue-steps/dist/vue-steps.min.css'
+import VueSteps from 'a-vue-steps'
+import 'a-vue-steps/dist/vue-steps.min.css'
 Vue.use(VueSteps)
 ```
 
@@ -33,12 +33,7 @@ activeIndex | Number| 1 | 默认为0
 </template>
 
 <script>
-import Steps from './Steps'
 export default {
-  name: 'App',
-  components: {
-    Steps
-  },
   data () {
     return {
       items: [
