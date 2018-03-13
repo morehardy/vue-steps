@@ -1,8 +1,8 @@
 {
-  "name": "vue-steps",
+  "name": "a-vue-steps",
   "version": "1.0.0",
   "description": "A vue plug-in of steps",
-  "author": "morehardy <morehardy@163.com>",
+  "author": "anotherhp <morehardy@163.com>",
   "private": false,
   "main": "dist/vue-steps.min.js",
   "scripts": {

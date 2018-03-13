@@ -8,6 +8,11 @@
 
 > 2k大小, 简单轻巧的 Vue 组件, 轻松创建步骤条
 
+#### 下载
+```
+npm i a-vue-steps --save
+```
+
 #### 使用:
 ```
 import VueSteps from 'vue-steps'
