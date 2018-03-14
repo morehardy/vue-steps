@@ -1,4 +1,4 @@
-## vue-steps
+# vue-steps
 
 [![](https://img.shields.io/badge/npm-v5.5.1-519dd9.svg)](https://github.com/morehardy/vue-steps)
 [![](https://img.shields.io/badge/版本-v1.0-519dd9.svg)](https://github.com/morehardy/vue-steps)
