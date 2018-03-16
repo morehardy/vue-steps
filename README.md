@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/npm-v5.5.1-519dd9.svg)](https://github.com/morehardy/vue-steps)
 [![](https://img.shields.io/badge/版本-v1.0-519dd9.svg)](https://github.com/morehardy/vue-steps)
 [![](https://img.shields.io/badge/Vue->2.0-519dd9.svg)](https://github.com/morehardy/vue-steps)
-[![JavaScript Style Guide](https://img.shields.io/badge/code_style-Eslint-brightgreen.svg)](https://eslint.org/)
+[![](https://img.shields.io/badge/code_style-Eslint-brightgreen.svg)](https://eslint.org/)
 
 
 > 2k大小, 简单轻巧的 Vue 组件, 轻松创建步骤条
